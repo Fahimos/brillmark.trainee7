@@ -1,0 +1,74 @@
+h1{
+    background-color: aquamarine;
+    margin: 25px;
+    padding: 10px;
+    border: black 2px solid;
+   
+
+}
+
+p{
+    background-color: aquamarine;
+    margin: 25px;
+    padding: 10px;
+    border: black 2px solid;
+}
+
+div{
+    background-color: aquamarine;
+    margin: 25px;
+    padding: 10px;
+    border: black 2px solid;
+
+}
+
+.image{
+    background-color: aquamarine;
+    margin: 25px;
+    padding: 10px;
+    border: black 2px solid;
+  
+   
+}
+
+span{
+    margin: 25px;
+    padding: 10px;
+    border: black 2px solid;
+
+}
+
+
+p.position {
+
+
+
+    
+    width: 20px;
+    height: 100px;
+    position:relative;
+    top: 25px;
+    left:50px;
+    overflow:scroll;
+
+}
+
+p.position:hover {
+
+
+color:aqua;
+background-color: antiquewhite;
+cursor:url("fifapc.ico"), default;
+
+
+ }
+ 
+
+
+.image15 {
+
+    margin: 10px;
+    float: left;
+   
+    
+}
